@@ -1,7 +1,6 @@
 
 body {
 	background-color:#000000;
-    background-image:url(bg.png),linear-gradient(black,#121613,#454946,#121613,black);
     margin:0;
     height:100%;
 }
